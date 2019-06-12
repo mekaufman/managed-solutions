@@ -1,0 +1,72 @@
+{:navgroup: .navgroup} 
+{:topicgroup: .topicgroup} 
+
+{: .toc subcollection="managed-solutions" audience="service" href="/docs/services/managed-solutions?topic=GettingStarted.html" path="services/managed-solutions"} 
+Managed Solutions
+
+    {: .navgroup id="learn"} 
+    getting-started.md
+    common-page-features.md
+    {: .navgroup-end} 
+
+    {: .navgroup id="howto"} 
+    view-your-services-overview.md
+    view-your-services-dashboard.md
+
+    {: .topicgroup } 
+    Applications
+        view-your-applications.md
+        view-sap-systems.md
+
+    {: .topicgroup } 
+    Servers
+        view-your-servers.md
+        view-server-information-and-usage.md
+        view-metrics-from-a-server.md
+
+    {: .topicgroup } 
+    Insights
+        view-your-metrics.md
+
+    {: .topicgroup } 
+    Health
+        view-your-alerts.md
+
+    {: .topicgroup } 
+    Service support tickets
+        view-your-service-support-tickets.md
+        view-service-support-ticket-information.md
+        create-a-service-support-ticket.md
+        change-a-tracking-number-or-attachment-on-a-service-support-ticket.md
+        add-comments-to-a-service-support-ticket.md
+        change-the-watch-list-of-a-service-support-ticket.md
+        change-the-priority-of-an-incident.md
+
+    {: .topicgroup } 
+    Service support service schedule
+        view-your-service-support-service-schedule.md
+    {: .navgroup-end} 
+
+    {: .navgroup id="reference"} 
+    {: .topicgroup } 
+    Application programming interfaces
+        use-security-with-application-programming-interfaces.md
+        application-programming-interface-specifications.md
+
+    {: .topicgroup } 
+    Release notes
+        20190510-new-and-changed-features.md
+        20190412-new-and-changed-features.md
+        20190315-new-and-changed-features.md
+        20190215-new-and-changed-features.md
+        20190118-new-and-changed-features.md
+    {: .navgroup-end} 
+
+    {: .navgroup id="help"} 
+    {: .topicgroup } 
+    Frequently asked questions (FAQs)
+        faqs-for-ibm-cloud.md
+        faqs-for-access-and-login.md
+        faqs-for-accounts.md
+        faqs-for-errors.md
+    {: .navgroup-end} 
