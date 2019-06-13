@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-12"
+lastupdated: "2019-06-13"
 
 
 ---
@@ -77,9 +77,9 @@ To change the watch list of a service support ticket:
     
     The watch list updates with the changes.
     
-You can also delete an email address from the watch list
+    You can also delete an email address from the watch list
     directly from the table on the Watch List tab.
-{: note} 
+    {: note} 
 
 You can also delete an email address from the watch list directly from
 the table on the Watch List tab.

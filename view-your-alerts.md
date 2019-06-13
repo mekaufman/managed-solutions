@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-12"
+lastupdated: "2019-06-13"
 
 
 ---
@@ -62,7 +62,7 @@ You can view all the alerts that have occurred for your services.
 You can choose whether to view all your services and environments or you
 can choose to view a specific service or a specific environment.
 
-1.  .Under **Service** click <svg aria-label="open list of options"
+1.  Under **Service** click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"
     viewBox="0 0 10 5" width="10"><title>open list of
     options</title><path d="M0 0l5 4.998L10 0z"></path></svg>.

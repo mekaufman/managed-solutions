@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-12"
+lastupdated: "2019-06-13"
 
 
 ---
@@ -76,7 +76,7 @@ Navigate to the Details tab of an incident service support ticket.
 
 10. Click **Save**.
     
-Click <svg aria-label="remove" alt="remove"
+    Click <svg aria-label="remove" alt="remove"
     style="fill: #e0182d;" fill-rule="evenodd" height="16" viewBox="0 0
     16 16" width="16"><path d="M6.32 5L10 8.68 8.68 10 5 6.32 1.32 10
     0 8.68 3.68 5 0 1.32 1.32 0 5 3.68 8.68 0 10 1.32 6.32

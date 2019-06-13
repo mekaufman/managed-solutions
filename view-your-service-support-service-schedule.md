@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-12"
+lastupdated: "2019-06-13"
 
 
 ---
@@ -98,13 +98,22 @@ or month.
 2.  Click <svg fill="#3d70b2" fill-rule="evenodd" height="14"
     width="8"><path d="M1.45 6.002L7 11.27l-.685.726L0 6.003 6.315 0 7
     .726z" fill-rule="nonzero"/></svg> to move to the next earlier
-    period or
-    
-    for the next later period.
+    period or <svg aria-label="right open arrow" alt="right open arrow"
+    fill="#3d70b2" fill-rule="evenodd" height="14" width="8"><path
+    d="M5.569 5.994L0 .726.687 0l6.336 5.994-6.335 6.002L0 11.27z"
+    fill-rule="nonzero"/></svg> for the next later period.
 
 3.  Click a service request to view its details.
 
-4.  Type a date next to
-    
-    or select a date on the calendar to show the service schedule for
-    that particular date directly.
+4.  Type a date next to <svg aria-label="date picker calendar"
+    alt="date picker calendar" height="16" style="enable-background:new
+    0 0 16 16;" viewBox="0 0 15 16" width="17"><style
+    type="text/css"> .st0{fill:#3D70B2;} </style><g><path
+    d="M12.99,0.98v-1h-2v1h-6v-1h-2v1h-3v15h16v-15H12.99z
+    M13.99,13.98h-12v-9h12V13.98z"/><rect height="2" width="2"
+    x="9.99" y="9.98"/><rect height="2" width="2" x="6.99"
+    y="6.98"/><rect height="2" width="2" x="9.99" y="6.98"/><rect
+    height="2" width="2" x="6.99" y="9.98"/><rect height="2" width="2"
+    x="3.99" y="9.98"/><rect height="2" width="2" x="3.99"
+    y="6.98"/></g></svg> or select a date on the calendar to show
+    the service schedule for that particular date directly.

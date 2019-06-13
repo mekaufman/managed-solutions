@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-12"
+lastupdated: "2019-06-13"
 
 
 ---
@@ -64,9 +64,9 @@ batch filters are cleared.
     As you type, the view dynamically shows only those rows containing
     the characters you typed.
     
-The characters you type are case-insensitive and filter
+    The characters you type are case-insensitive and filter
     on every column in the view.
-{: note} 
+    {: note} 
 
 ## Filter the view by specific attributes
 {: #13722-filter-the-view-by-specific-attributes } 
@@ -117,9 +117,11 @@ when you first arrive on a page or refresh the page.
     fill-rule="evenodd" height="5" role="img" viewBox="0 0 10 5"
     width="10"><title>open list of options</title><path d="M0 0l5
     4.998L10 0z"></path></svg>.
-  - A second click sorts descending by that column, indicated by
-    open list of options
-    .
+  - A second click sorts descending by that column, indicated by <svg
+    aria-label="close list of options" alt="close list of options"
+    style="transform: rotate(180deg);" fill-rule="evenodd" height="5"
+    role="img" viewBox="0 0 10 5" width="10"><title>open list of
+    options</title><path d="M0 0l5 4.998L10 0z"></path></svg>.
 
 To restore the default sort order, refresh the page.
 

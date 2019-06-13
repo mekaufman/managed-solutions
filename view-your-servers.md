@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-12"
+lastupdated: "2019-06-13"
 
 
 ---
@@ -65,9 +65,9 @@ Click a tab to show that content.
     
     The server information appears.
     
-You can also get to the Servers page when you [View SAP
+    You can also get to the Servers page when you [View SAP
     systems](/docs/managed-solutions/view-sap-systems.html "View SAP systems").
-{: note} 
+    {: note} 
 
 ## Select your service and systems
 {: #13271-select-your-service-and-systems } 

@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-12"
+lastupdated: "2019-06-13"
 
 
 ---
@@ -121,15 +121,18 @@ selected.
     graph.
 3.  Select an **Aggregation**, the method to use to aggregate the data
     for each interval.
-4.  Click refresh,
-    Refresh
-    , to refresh the graph.
+4.  Click refresh, <svg alt="Refresh" aria-label="Refresh"
+    fill-rule="evenodd" height="16" name="refresh" role="img" viewBox="0
+    0 13 16" width="13"><title>Refresh</title><path d="M10.948
+    3L8.542.727 9.23 0 13 3.564 9.228 7.108l-.685-.729L11.075 4H6.5A5.5
+    5.5 0 1 0 12 9.5h1A6.5 6.5 0 1 1 6.5 3h4.448z"/></svg>, to
+    refresh the graph.
 
 ## Change the auto-refresh period
 {: #13752-change-the-autorefresh-period } 
 
-You can how frequently the Metrics page automatically refreshes or turn
-off auto-refresh.
+You can select how frequently the Metrics page automatically refreshes
+or turn off auto-refresh.
 
 1.  Click settings, <svg alt="Settings" aria-label="Settings"
     fill-rule="evenodd" height="16" name="settings" role="img"
@@ -160,6 +163,10 @@ off auto-refresh.
 ## Add a metric
 {: #13752-add-a-metric } 
 
+You can add a new metric. You can group metric dimensions which will
+combine the values of the dimensions to a single line on the graph. When
+grouped, the line is the average of the grouped dimensions.
+
 1.  Click **Add Metric**.
     
     The Select Metric Type dialog appears.
@@ -180,10 +187,6 @@ off auto-refresh.
 7.  Click **Group** to combine the selected metric dimensions into one
     line on the graph.
 
-When **Group** is selected, the line is the average of
-    the grouped dimensions.
-When {: note} 
-
 ## Copy a metric
 {: #13752-copy-a-metric } 
 
@@ -203,14 +206,17 @@ You can duplicate an existing metric.
 ## Edit a metric
 {: #13752-edit-a-metric } 
 
-You can edit the definition of an existing metric.
+You can edit the definition of an existing metric. You can group metric
+dimensions which will combine the values of the dimensions to a single
+line on the graph. When grouped, the line is the average of the grouped
+dimensions.
 
 1.  Click edit, <svg alt="Edit" aria-label="Edit" fill-rule="evenodd"
     height="16" name="edit" role="img" viewBox="0 0 16 16" width="16">
     <title>Edit Metric</title> <path
     d="M2.2,10.9l8-8l2.9,2.9l-8,8L2.2,10.9z
     M11.6,1.5L13.1,0L16,2.9l-1.5,1.5L11.6,1.5z
-    M0,16l2.7-1.1l-1.6-1.6L0,16z" fill="#8C9BA5"/> </svg>,, on a
+    M0,16l2.7-1.1l-1.6-1.6L0,16z" fill="#8C9BA5"/> </svg>, on a
     metric.
     
     The Select Metric Type dialog appears.
@@ -230,10 +236,6 @@ You can edit the definition of an existing metric.
 
 7.  Click **Group** to combine the selected metric dimensions into one
     line on the graph.
-    
-When **Group** is selected, the line is the average of
-    the grouped dimensions.
-When {: note} 
 
 ## Change the filters of a metric
 {: #13752-change-the-filters-of-a-metric } 

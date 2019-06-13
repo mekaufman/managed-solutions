@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-12"
+lastupdated: "2019-06-13"
 
 
 ---
@@ -72,10 +72,12 @@ You can show or hide the **Server Information**.
     12" width="7"><path d="M5.569 5.994L0 .726.687 0l6.336 5.994-6.335
     6.002L0 11.27z" fill-rule="nonzero"/></svg> to hide the server
     information.
-  - Click
-    to show the server information.
+  - Click <svg aria-label="right open arrow" alt="right open arrow"
+    fill="#3d70b2" fill-rule="evenodd" height="14" width="8"><path
+    d="M5.569 5.994L0 .726.687 0l6.336 5.994-6.335 6.002L0 11.27z"
+    fill-rule="nonzero"/></svg> to show the server information.
 
-You can show historical usage data for the last 24 hors or the last 30
+You can show historical usage data for the last 24 hours or the last 30
 days.
 
   - Click **Last 24 Hours** to show historical data for the last 24
