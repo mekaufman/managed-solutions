@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -96,11 +96,11 @@ location.
 {: #13244-view-detailed-information-about-a-ticke } 
 
 To [View service support ticket
-information](/docs/managed-solutions/view-service-support-ticket-information.html "View service support ticket information")
+information](/docs/managed-solutions?topic=managed-solutions-view-service-support-ticket-information "View service support ticket information")
 in greater detail, click on its row.
 
 ## Create a new service support ticket
 {: #13244-create-a-new-service-support-ticket } 
 
 You can [Create a service support
-ticket](/docs/managed-solutions/create-a-service-support-ticket.html "Create a service support ticket").
+ticket](/docs/managed-solutions?topic=managed-solutions-create-a-service-support-ticket "Create a service support ticket").

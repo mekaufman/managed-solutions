@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -35,7 +35,7 @@ A collection of frequently asked questions regarding errors.
 
 If you do not see all of your servers in the Affected Items list,
 [Create a service support
-ticket](/docs/managed-solutions/create-a-service-support-ticket.html "Create a service support ticket")
+ticket](/docs/managed-solutions?topic=managed-solutions-create-a-service-support-ticket "Create a service support ticket")
 in Managed Applications Portal and support will correct the list.
 
 ## Why do I see the error: No Access?

@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -85,5 +85,5 @@ can choose to view a specific service or a specific environment.
 
 On the row with information regarding the alert, you can click the
 ticket number to [View service support ticket
-information](/docs/managed-solutions/view-service-support-ticket-information.html "View service support ticket information")
+information](/docs/managed-solutions?topic=managed-solutions-view-service-support-ticket-information "View service support ticket information")
 for the ticket raised to address the alert.

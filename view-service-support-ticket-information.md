@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -79,9 +79,9 @@ Click a tab to show that content.
 You can view on the Details tab the key information that you added to
 the service support ticket when you created it. On this tab you can
 [Change a tracking number or attachment on a service support
-ticket](/docs/managed-solutions/change-a-tracking-number-or-attachment-on-a-service-support-ticket.html "Change a tracking number or attachment on a service support ticket").
+ticket](/docs/managed-solutions?topic=managed-solutions-change-a-tracking-number-or-attachment-on-a-service-support-ticket "Change a tracking number or attachment on a service support ticket").
 For incidents, you can [Change the priority of an
-incident](/docs/managed-solutions/change-the-priority-of-an-incident.html "Change the priority of an incident").
+incident](/docs/managed-solutions?topic=managed-solutions-change-the-priority-of-an-incident "Change the priority of an incident").
 
 ## Implementation tab
 {: #13248-implementation-tab } 
@@ -100,7 +100,7 @@ requests.
 You can view on the Communication Log tab communications between you and
 your support team. On this tab you can [Add comments to a service
 support
-ticket](/docs/managed-solutions/add-comments-to-a-service-support-ticket.html "Add comments to a service support ticket").
+ticket](/docs/managed-solutions?topic=managed-solutions-add-comments-to-a-service-support-ticket "Add comments to a service support ticket").
 
 You cannot change the sort order of the communication log.
 {: note} 
@@ -111,7 +111,7 @@ You cannot change the sort order of the communication log.
 You can view on the Watch List tab the list of email addresses to which
 notifications are sent when events occur on the service support ticket.
 On this tab you can [Change the watch list of a service support
-ticket](/docs/managed-solutions/change-the-watch-list-of-a-service-support-ticket.html "Change the watch list of a service support ticket").
+ticket](/docs/managed-solutions?topic=managed-solutions-change-the-watch-list-of-a-service-support-ticket "Change the watch list of a service support ticket").
 You can also delete an email address from the watch list directly from
 the table on the Watch List tab.
 

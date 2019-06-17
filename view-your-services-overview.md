@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -66,9 +66,9 @@ The Services tile shows a list of your services and an icon of the
 status. The tile title and each count is a link.
 
   - Click **Services** and link to [View your services
-    dashboard](/docs/managed-solutions/view-your-services-dashboard.html "View your services dashboard").
+    dashboard](/docs/managed-solutions?topic=managed-solutions-view-your-services-dashboard "View your services dashboard").
   - Click any of your services and link to [View your services
-    dashboard](/docs/managed-solutions/view-your-services-dashboard.html "View your services dashboard").
+    dashboard](/docs/managed-solutions?topic=managed-solutions-view-your-services-dashboard "View your services dashboard").
 
 ## Recent Tickets tile
 {: #13240-recent-tickets-tile } 
@@ -78,9 +78,9 @@ the last seven days.
 
   - Click **Recent Tickets** and link to [View your service support
     service
-    schedule](/docs/managed-solutions/view-your-service-support-service-schedule.html "View your service support service schedule").
+    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule").
   - Click a ticket identifier and link to [View service support ticket
-    information](/docs/managed-solutions/view-service-support-ticket-information.html "View service support ticket information")
+    information](/docs/managed-solutions?topic=managed-solutions-view-service-support-ticket-information "View service support ticket information")
     for that ticket.
 
 ## Scheduled Change Requests tile
@@ -91,7 +91,7 @@ scheduled the nearest in time.
 
   - Click **Scheduled Change Requests** and link to [View your service
     support service
-    schedule](/docs/managed-solutions/view-your-service-support-service-schedule.html "View your service support service schedule").
+    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule").
   - Click <svg aria-label="calendar outline" alt="calendar outline"
     fill-rule="evenodd" height="16" viewBox="0 0 14 16"
     width="14"><path d="M0 5h14v1H0V5zm3-5h1v4H3V0zm7 0h1v4h-1V0zM0
@@ -102,15 +102,15 @@ scheduled the nearest in time.
     pick a date to view a support schedule. Dates with service scheduled
     are highlighted. Click a date on the calendar and link to [View your
     service support service
-    schedule](/docs/managed-solutions/view-your-service-support-service-schedule.html "View your service support service schedule")
+    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule")
     filtered to show that date.
   - Click a change request ticket identifier and link to [View service
     support ticket
-    information](/docs/managed-solutions/view-service-support-ticket-information.html "View service support ticket information")
+    information](/docs/managed-solutions?topic=managed-solutions-view-service-support-ticket-information "View service support ticket information")
     for that ticket.
   - Click **Create Change Request** and link to [Create a service
     support
-    ticket](/docs/managed-solutions/create-a-service-support-ticket.html "Create a service support ticket")
+    ticket](/docs/managed-solutions?topic=managed-solutions-create-a-service-support-ticket "Create a service support ticket")
     with a `Change Request` type of ticket.
 
 ## Active Tickets tile
@@ -122,15 +122,15 @@ of each ticket type per day.
 
   - Click **Active Tickets** and link to [View your service support
     service
-    schedule](/docs/managed-solutions/view-your-service-support-service-schedule.html "View your service support service schedule").
+    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule").
   - Click **Change** requests to [View your service support service
-    schedule](/docs/managed-solutions/view-your-service-support-service-schedule.html "View your service support service schedule")
+    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule")
     with the Change tab selected.
   - Click **Service** requests to [View your service support service
-    schedule](/docs/managed-solutions/view-your-service-support-service-schedule.html "View your service support service schedule")
+    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule")
     with the Service tab selected.
   - Click **Incident** requests to [View your service support service
-    schedule](/docs/managed-solutions/view-your-service-support-service-schedule.html "View your service support service schedule")
+    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule")
     with the Incident tab selected.
   - Hover your cursor over a line on the graph to view the count of
     active tickets of that type on that day.
@@ -141,9 +141,9 @@ of each ticket type per day.
 The Alerts tile shows counts of active alerts by severity.
 
   - Click the tile or **Alerts** to [View your
-    alerts](/docs/managed-solutions/view-your-alerts.html "View your alerts").
+    alerts](/docs/managed-solutions?topic=managed-solutions-view-your-alerts "View your alerts").
   - Click a severity level and [View your
-    alerts](/docs/managed-solutions/view-your-alerts.html "View your alerts")
+    alerts](/docs/managed-solutions?topic=managed-solutions-view-your-alerts "View your alerts")
     with the batch filter for that severity level selected, thus showing
     only that severity level in the table.
 

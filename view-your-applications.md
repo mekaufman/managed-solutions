@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -74,4 +74,4 @@ You can select a specific service to view greater detail. In the header
 for the service.
 
   - Click **All SAP Systems** to [View SAP
-    systems](/docs/managed-solutions/view-sap-systems.html "View SAP systems").
+    systems](/docs/managed-solutions?topic=managed-solutions-view-sap-systems "View SAP systems").

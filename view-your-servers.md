@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -66,7 +66,7 @@ Click a tab to show that content.
     The server information appears.
     
     You can also get to the Servers page when you [View SAP
-    systems](/docs/managed-solutions/view-sap-systems.html "View SAP systems").
+    systems](/docs/managed-solutions?topic=managed-solutions-view-sap-systems "View SAP systems").
     {: note} 
 
 ## Select your service and systems
@@ -97,5 +97,5 @@ view a specific service.
 {: #13271-view-detailed-information-about-a-serve } 
 
 Click the row of a server to [View server information and
-usage](/docs/managed-solutions/view-server-information-and-usage.html "View server information and usage")
+usage](/docs/managed-solutions?topic=managed-solutions-view-server-information-and-usage "View server information and usage")
 in greater detail.

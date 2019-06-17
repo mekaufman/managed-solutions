@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -34,7 +34,7 @@ A collection of frequently asked questions regarding access and login.
 {: #13809-activate-the-portal-for-use-by-my-organ } 
 
 Follow the instructions in [Getting
-started](/docs/managed-solutions/getting-started.html "Getting started").
+started](/docs/managed-solutions?topic=managed-solutions-getting-started "Getting started").
 
 Let us follow a user, John Doe, whose email is john.doe@XZYCompany.com.
 He registers with IBM Cloud for an IBMid. This gives him an identity
@@ -154,7 +154,7 @@ Ensure you select the correct account.
 You or an appropriate administrator within your organization must obtain
 an access code from your Delivery Project Executive and follow the
 instructions in [Getting
-started](/docs/managed-solutions/getting-started.html "Getting started").
+started](/docs/managed-solutions?topic=managed-solutions-getting-started "Getting started").
 
 ### You have not been invited to the account...
 {: #13809-you-have-not-been-invited-to-the-accoun } 
@@ -173,6 +173,6 @@ Applications.
 You or an appropriate administrator within your organization must obtain
 an access code from your Delivery Project Executive and follow the
 instructions in [Getting
-started](/docs/managed-solutions/getting-started.html "Getting started").
+started](/docs/managed-solutions?topic=managed-solutions-getting-started "Getting started").
 If you are not that administrator, then you must also request the
 administrator to invite you to the account.

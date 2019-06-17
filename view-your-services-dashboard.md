@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -66,13 +66,13 @@ systems. the count of servers, and a table of counts of systems by
 environment type. The tile title and each count is a link.
 
   - Click **Managed SAP** and link to [View your
-    applications](/docs/managed-solutions/view-your-applications.html "View your applications").
+    applications](/docs/managed-solutions?topic=managed-solutions-view-your-applications "View your applications").
   - Click the count of landscapes and link to [View your
-    applications](/docs/managed-solutions/view-your-applications.html "View your applications").
+    applications](/docs/managed-solutions?topic=managed-solutions-view-your-applications "View your applications").
   - Click the count of systems and link to [View SAP
-    systems](/docs/managed-solutions/view-sap-systems.html "View SAP systems").
+    systems](/docs/managed-solutions?topic=managed-solutions-view-sap-systems "View SAP systems").
   - Click the count of servers and link to [View your
-    servers](/docs/managed-solutions/view-your-servers.html "View your servers")
+    servers](/docs/managed-solutions?topic=managed-solutions-view-your-servers "View your servers")
     filtered to show only Managed SAP servers.
 
 ## Dynamic Automation tile

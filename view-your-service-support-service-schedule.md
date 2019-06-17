@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -59,7 +59,7 @@ service schedule for a day, a week, or a month.
 
 You can click on any ticket in the service support schedule to [View
 service support ticket
-information](/docs/managed-solutions/view-service-support-ticket-information.html "View service support ticket information").
+information](/docs/managed-solutions?topic=managed-solutions-view-service-support-ticket-information "View service support ticket information").
 
 ## Select your service and location
 {: #13262-select-your-service-and-location } 

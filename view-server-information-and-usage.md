@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -96,14 +96,14 @@ For any server you can view usage details with substantial filtering
 options.
 
 On any graph, click **view detail** to [View metrics from a
-server](/docs/managed-solutions/view-metrics-from-a-server.html "View metrics from a server").
+server](/docs/managed-solutions?topic=managed-solutions-view-metrics-from-a-server "View metrics from a server").
 
 ## Download your view
 {: #13275-download-your-view } 
 
 You can download the entire page or you can download just a single
 historical usage graph. As discussed in [Common page
-features](/docs/managed-solutions/common-page-features.html "Common page features"),
+features](/docs/managed-solutions?topic=managed-solutions-common-page-features "Common page features"),
 click download, <svg alt="Download" aria-label="Download"
 fill-rule="evenodd" height="16" name="download" role="img" viewBox="0 0
 14 16" width="16"><title>Download</title><path d="M7.506

@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-13"
+lastupdated: "2019-06-17"
 
 
 ---
@@ -101,8 +101,8 @@ You can view greater detail on SAP servers. In the header for the
 service.
 
 1.  Click **[All SAP
-    Servers](/docs/managed-solutions/view-sap-systems.html "View SAP systems")**.
+    Servers](/docs/managed-solutions?topic=managed-solutions-view-sap-systems "View SAP systems")**.
     
     The Server page appears with SAP as the selected service as
     discussed in [View your
-    servers](/docs/managed-solutions/view-your-servers.html "View your servers").
+    servers](/docs/managed-solutions?topic=managed-solutions-view-your-servers "View your servers").
