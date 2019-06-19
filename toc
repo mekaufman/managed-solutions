@@ -27,6 +27,7 @@ Managed Solutions
     {: .topicgroup } 
     Insights
         view-your-metrics.md
+        view-your-reports.md
 
     {: .topicgroup } 
     Health

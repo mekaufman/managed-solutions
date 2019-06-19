@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-17"
+lastupdated: "2019-06-19"
 
 
 ---
@@ -72,8 +72,8 @@ environment type. The tile title and each count is a link.
   - Click the count of systems and link to [View SAP
     systems](/docs/managed-solutions?topic=managed-solutions-view-sap-systems "View SAP systems").
   - Click the count of servers and link to [View your
-    servers](/docs/managed-solutions?topic=managed-solutions-view-your-servers "View your servers")
-    filtered to show only Managed SAP servers.
+    servers](/docs/managed-solutions?topic=managed-solutions-view-your-servers "View your servers") filtered to
+    show only Managed SAP servers.
 
 ## Dynamic Automation tile
 {: #13818-dynamic-automation-tile } 

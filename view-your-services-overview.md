@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-17"
+lastupdated: "2019-06-19"
 
 
 ---
@@ -143,9 +143,9 @@ The Alerts tile shows counts of active alerts by severity.
   - Click the tile or **Alerts** to [View your
     alerts](/docs/managed-solutions?topic=managed-solutions-view-your-alerts "View your alerts").
   - Click a severity level and [View your
-    alerts](/docs/managed-solutions?topic=managed-solutions-view-your-alerts "View your alerts")
-    with the batch filter for that severity level selected, thus showing
-    only that severity level in the table.
+    alerts](/docs/managed-solutions?topic=managed-solutions-view-your-alerts "View your alerts") with the batch
+    filter for that severity level selected, thus showing only that
+    severity level in the table.
 
 ## Documentation tile
 {: #13240-documentation-tile } 

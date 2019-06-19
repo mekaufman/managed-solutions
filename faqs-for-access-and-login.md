@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-17"
+lastupdated: "2019-06-19"
 
 
 ---
@@ -50,8 +50,8 @@ account. When Davin enters IMB Cloud Console, he has access to two
 accounts: `Davin Smith's Account` and `John Doe's Account`. To avoid the
 Davin's confusion over which account is which, John Doe follows the
 instructions in [Editing the account
-name](/docs/account?topic=account-account_settings#change-acct-name) and
-changes the account name of his account from `John Doe's Account` to
+name](/docs/account?topic=account-account_settings#change-acct-name)
+and changes the account name of his account from `John Doe's Account` to
 `XYZ Company`. Now Davin sees the two accounts: `Davin Smith's Account`
 and `XYZ Company`. Confusion alleviated\!
 
@@ -173,6 +173,6 @@ Applications.
 You or an appropriate administrator within your organization must obtain
 an access code from your Delivery Project Executive and follow the
 instructions in [Getting
-started](/docs/managed-solutions?topic=managed-solutions-getting-started "Getting started").
-If you are not that administrator, then you must also request the
-administrator to invite you to the account.
+started](/docs/managed-solutions?topic=managed-solutions-getting-started "Getting started"). If you are not that
+administrator, then you must also request the administrator to invite
+you to the account.

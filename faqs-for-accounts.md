@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-17"
+lastupdated: "2019-06-19"
 
 
 ---
@@ -103,8 +103,8 @@ Any user with appropriate permissions may invite users. To elevate
 permissions of a user to allow that user to invite other users to the
 account, follow the instructions in [Assigning access to account
 management
-services](/docs/iam?topic=iam-account-services#account-services) to
-modify the user. As discussed in the article, you can provide very
+services](/docs/iam?topic=iam-account-services#account-services)
+to modify the user. As discussed in the article, you can provide very
 granular permission to invite users with a policy that gives the user
 access to all account management services in the account by selecting
 **All account management services** with the `Administrator` role

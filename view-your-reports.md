@@ -22,17 +22,13 @@ lastupdated: "2019-06-19"
 {:download: .download} 
 {:external: target= .external} 
 
-# Add comments to a service support ticket
-{: #add-comments-to-a-service-support-ticket } 
+# View your reports
+{: #view-your-reports } 
 
-Learn how to add comments to a service support ticket.
+Learn how to view reports for your services.
 {: shortdesc} 
 
-You can add comments to a service support ticket. The team assigned the
-ticket reviews and responds to comments. All comments are shown on the
-Communication Log tab of the ticket.
-
-To add a comment to a service support ticket:
+You can view all the reports that are available for your services.
 
 1.  Open IBM Cloud Console.
 
@@ -52,19 +48,15 @@ To add a comment to a service support ticket:
     
     The Managed Solutions menu appears.
 
-5.  Click **Service Support**.
-
-6.  The Service Support choices appear under **Service Support** in the
-    navigation panel.Click the row of the ticket of interest.
+5.  Click **Insights**.
     
-    The ticket page appears.
+    The Insights choices appear under **Insights** in the navigation
+    panel.
 
-7.  Click **Communication Log**.
+6.  Click **Reports**.
     
-    The Communication Log tab appears.
+    The Reports page appears.
 
-8.  Type your **Comments**.
-
-9.  Click **Add**.
+7.  Hover over the report you want and click **Generate Report**.
     
-    Your comment is added to the communication log.
+    The generated report appears.

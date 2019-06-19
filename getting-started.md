@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-17"
+lastupdated: "2019-06-19"
 
 
 ---
@@ -73,9 +73,9 @@ to a name more suitable for your organization as discussed later in this
 topic.
 
 1.  [Create an IBM Cloud
-    account](/docs/account/account_faq.html#create-account) with `IBMid`
-    using an email address that you want to own the account for all your
-    users.
+    account](/docs/account/account_faq.html#create-account)
+    with `IBMid` using an email address that you want to own the account
+    for all your users.
 2.  Ask your Delivery Project Executive for an access code.
 3.  Log in to [IBM Cloud Console](https://cloud.ibm.com/){: external} with that
     email address.
@@ -159,18 +159,19 @@ matches the email address you added to the invitation. The invitee must
 have, or create, an IBM Cloud account with the same email address.
 
 1.  To invite a user to the account, follow the instructions in
-    [Inviting users](/docs/iam/iamuserinv.html#iamuserinv) from the IBM
-    Cloud documentation. Under **Assign access to**, select `Resource`
-    and under **Services**, select `Managed Solutions`. If `Managed
-    Solutions` is not available under **Services**, select `All Identity
-    and Access enabled services`.
+    [Inviting
+    users](/docs/iam/iamuserinv.html#iamuserinv)
+    from the IBM Cloud documentation. Under **Assign access to**, select
+    `Resource` and under **Services**, select `Managed Solutions`. If
+    `Managed Solutions` is not available under **Services**, select `All
+    Identity and Access enabled services`.
 2.  To elevate permissions of a user to allow that user to invite other
     users to the account, follow the instructions in [Assigning access
     to account management
-    services](/docs/iam?topic=iam-account-services#account-services) to
-    modify the user. As discussed in the article, you can provide very
-    granular permission to invite users with a policy that gives the
-    user access to all account management services in the account by
+    services](/docs/iam?topic=iam-account-services#account-services)
+    to modify the user. As discussed in the article, you can provide
+    very granular permission to invite users with a policy that gives
+    the user access to all account management services in the account by
     selecting **All account management services** with the
     `Administrator` role assigned.
 

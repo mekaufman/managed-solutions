@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-17"
+lastupdated: "2019-06-19"
 
 
 ---
@@ -103,10 +103,10 @@ server](/docs/managed-solutions?topic=managed-solutions-view-metrics-from-a-serv
 
 You can download the entire page or you can download just a single
 historical usage graph. As discussed in [Common page
-features](/docs/managed-solutions?topic=managed-solutions-common-page-features "Common page features"),
-click download, <svg alt="Download" aria-label="Download"
-fill-rule="evenodd" height="16" name="download" role="img" viewBox="0 0
-14 16" width="16"><title>Download</title><path d="M7.506
+features](/docs/managed-solutions?topic=managed-solutions-common-page-features "Common page features"), click
+download, <svg alt="Download" aria-label="Download" fill-rule="evenodd"
+height="16" name="download" role="img" viewBox="0 0 14 16"
+width="16"><title>Download</title><path d="M7.506
 11.03l4.137-4.376.727.687-5.363 5.672-5.367-5.67.726-.687 4.14
 4.374V0h1v11.03z"/><path d="M13 15v-2h1v2a1 1 0 0 1-1 1H1a1 1 0 0
 1-1-1v-2h1v2h12z"/></svg>, on the heading with the server name to
