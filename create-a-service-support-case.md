@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -22,20 +22,19 @@ lastupdated: "2019-06-19"
 {:download: .download} 
 {:external: target= .external} 
 
-# Create a service support ticket
-{: #create-a-service-support-ticket } 
+# Create a service support case
+{: #create-a-service-support-case } 
 
-Learn how to create a service support ticket.
+Learn how to create a service support case.
 {: shortdesc} 
 
-You can create a service support ticket to:
+You can create a service support case to:
 
-  - Change an existing service - a change request service support
-    ticket.
-  - Add a new service - a service request service support ticket.
-  - Report an incident - an incident service support ticket.
+  - Change an existing service - a change request service support case.
+  - Add a new service - a service request service support case.
+  - Report an incident - an incident service support case.
 
-To create a new service support ticket:
+To create a new service support case:
 
 1.  Open IBM Cloud Console.
 
@@ -58,25 +57,28 @@ To create a new service support ticket:
 5.  Click **Service Support**.
 
 6.  The Service Support choices appear under **Service Support** in the
-    navigation panel.Click **Create Ticket**.
+    navigation panel.Click **Create Case**.
     
-    The Create Ticket page appears.
+    The Create Case page appears.
 
-7.  Select the type of request ticket to create.
+7.  Select the type of case to create.
     
     The applicable fields appear.
 
-8.  Select a **Service**, **Location**, and **System Environment**.
+8.  Select a **Service**.
 
-9.  Type a **Summary** and **Description**.
+9.  If your account requires them, you are shown and must select
+    **Location** and **System Environment**.
 
-10. Continue depending on the ticket type.
+10. Type a **Summary** and **Description**.
+
+11. Continue depending on the case type.
 
 ## Change Requests
 {: #13257-change-requests } 
 
 The tracking number is a text field in which you can type
-any value that helps you associate this service support ticket to any
+any value that helps you associate this service support case to any
 other object meaningful to you.
 {: note} 
 
@@ -95,7 +97,7 @@ other object meaningful to you.
 {: #13257-service-request } 
 
 The tracking number is a text field in which you can type
-any value that helps you associate this service support ticket to any
+any value that helps you associate this service support case to any
 other object meaningful to you.
 {: note} 
 
@@ -111,7 +113,7 @@ other object meaningful to you.
 {: #13257-incident } 
 
 The tracking number is a text field in which you can type
-any value that helps you associate this service support ticket to any
+any value that helps you associate this service support case to any
 other object meaningful to you.
 {: note} 
 
@@ -128,22 +130,23 @@ other object meaningful to you.
 {: #13257-add-impacted-items } 
 
 Impacted items are the servers that are affected by the service support
-ticket.
+case.
 
 1.  Click **Add Impacted Item**.
     
     The Add Configuration Item dialog appears.
 
-2.  Under **Service** click <svg aria-label="open list of options"
+2.  Under **Contract** click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"
     viewBox="0 0 10 5" width="10"><title>open list of
     options</title><path d="M0 0l5 4.998L10 0z"></path></svg>.
 
-3.  Select `All Services` or a specific application.
+3.  Select `All Contracts` or a specific contract.
     
-    The selected services or service appears.
+    The selected contracts or contract appears.
 
-4.  Under **Location** click <svg aria-label="open list of options"
+4.  If your account requires it, you are shown **Location**. Under
+    **Location**, click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"
     viewBox="0 0 10 5" width="10"><title>open list of
     options</title><path d="M0 0l5 4.998L10 0z"></path></svg>.
@@ -159,8 +162,8 @@ ticket.
 ## Add a watch list
 {: #13257-add-a-watch-list } 
 
-The watch list on a service support ticket is a list of email addresses
-to which notifications are sent when events occur.
+The watch list on a service support case is a list of email addresses to
+which notifications are sent when events occur.
 
 1.  Click **Add Watch List**.
     
@@ -178,9 +181,10 @@ to which notifications are sent when events occur.
 {: #13257-add-attachments } 
 
 You can add, download, or remove attachments to the service support
-ticket.
+case.
 
-The maximum size of any single attachment is 20 MB.
+You can attach binary files. The maximum size of any single
+attachment is 20 MB.
 {: note} 
 
 You can add an attachment.

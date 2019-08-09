@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -22,17 +22,17 @@ lastupdated: "2019-06-19"
 {:download: .download} 
 {:external: target= .external} 
 
-# Change the watch list of a service support ticket
-{: #change-the-watch-list-of-a-service-support-ti } 
+# Change the watch list of a service support case
+{: #change-the-watch-list-of-a-service-support-ca } 
 
-Learn how to change the watch list of a service support ticket.
+Learn how to change the watch list of a service support case.
 {: shortdesc} 
 
-The watch list on a service support ticket is a list of email addresses
-to which notifications are sent when events occur. You can change the
-watch list at any time.
+The watch list on a service support case is a list of email addresses to
+which notifications are sent when events occur. You can change the watch
+list at any time.
 
-To change the watch list of a service support ticket:
+To change the watch list of a service support case:
 
 1.  Open IBM Cloud Console.
 
@@ -53,11 +53,13 @@ To change the watch list of a service support ticket:
     The Managed Solutions menu appears.
 
 5.  Click **Service Support**.
-
-6.  The Service Support choices appear under **Service Support** in the
-    navigation panel.Click the row of the ticket of interest.
     
-    The ticket page appears.
+    The Service Support choices appear under **Service Support** in the
+    navigation panel.
+
+6.  Click the row of the case of interest.
+    
+    The case page appears.
 
 7.  Click **Watch List**.
     

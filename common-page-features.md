@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -37,6 +37,13 @@ the pages. Features that you will find on pages include
     items shown on the page.
   - Sorting the view.
   - Downloading the view.
+
+While Managed Applications Portal has a common look and feel across all
+pages, not every page shown in this documentation is available to every
+user. You will see only those pages applicable to your account based on
+your entitlements, the services and features for which you have
+contracted. For example, if you have no managed SAP services, you will
+not see the SAP pages.
 
 ## Filter the view by common text
 {: #13722-filter-the-view-by-common-text } 

@@ -22,13 +22,16 @@ lastupdated: "2019-08-09"
 {:download: .download} 
 {:external: target= .external} 
 
-# View your applications
-{: #view-your-applications } 
+# View your change request approvers
+{: #view-your-change-request-approvers } 
 
-Learn how to view your applications.
+Learn how to view your change request approvers.
 {: shortdesc} 
 
-You can view the current state of services for your applications.
+For organizations with more than one ServiceNow contracts, account
+administrators can control which users can approve change requests for
+each ServiceNow contract. If you are an administrator, you can view the
+list of users granted permission to approve change requests.
 
 1.  Open IBM Cloud Console.
 
@@ -48,15 +51,20 @@ You can view the current state of services for your applications.
     
     The Managed Solutions menu appears.
 
-5.  Click **Applications**.
+5.  Click **Service Support**.
     
-    The Applications page appears.
+    The Service Support choices appear under **Service Support** in the
+    navigation panel.
 
-## Select your service
-{: #13233-select-your-service } 
+6.  Click **Change Request Approvers**.
+    
+    The list of change request approvers appears.
 
-You can choose whether to view all your services or you can choose to
-view a specific service.
+## Select your contract
+{: #13840-select-your-contract } 
+
+You can choose whether to view approvers for all your contracts or you
+can choose to view approvers for a specific contract.
 
 1.  Under **Contract** click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"
@@ -65,15 +73,4 @@ view a specific service.
 
 2.  Select `All Contracts` or a specific contract.
     
-    The selected contracts or contract appears.
-
-## View all systems in a service
-{: #13233-view-all-systems-in-a-service } 
-
-You can select a specific service to view greater detail. In the header
-for the service.
-
-  - Click **All SAP Systems** to [View SAP
-    systems](/docs/managed-solutions?topic=managed-solutions-view-sap-systems "View SAP systems").
-  - Click **All Oracle Systems** to [View Oracle
-    systems](/docs/managed-solutions?topic=managed-solutions-view-oracle-systems "View Oracle systems").
+    Approvers for the selected contracts or contract appear.

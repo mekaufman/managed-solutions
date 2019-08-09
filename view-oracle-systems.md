@@ -22,13 +22,13 @@ lastupdated: "2019-08-09"
 {:download: .download} 
 {:external: target= .external} 
 
-# View your alerts
-{: #view-your-alerts } 
+# View Oracle systems
+{: #view-oracle-systems } 
 
-Learn how to view alerts for your services.
+Learn how to view Oracle systems.
 {: shortdesc} 
 
-You can view all the alerts that have occurred for your services.
+You can view details of all your Oracle systems.
 
 1.  Open IBM Cloud Console.
 
@@ -48,28 +48,31 @@ You can view all the alerts that have occurred for your services.
     
     The Managed Solutions menu appears.
 
-5.  Click **Health**.
+5.  Click **Applications**.
     
-    The Health choices appear under **Health** in the navigation panel.
+    The Applications page appears.
 
-6.  Click **Alerts**.
+6.  In the header for Oracle service, click **All Oracle Systems**.
     
-    The Alerts page appears.
+    The Oracle Systems page appears.
 
-## Select your service, environment
-{: #13601-select-your-service-environment } 
+## Select your application and environment
+{: #13237-select-your-application-and-environment } 
 
-You can choose whether to view all your services and environments or you
-can choose to view a specific service or a specific environment.
+You can choose whether to view all your applications and environments or
+you can choose to view a specific application or view a specific
+environment. Applications are the specific Oracle application on the
+server. Environments are essentially data centers in which the servers
+run.
 
-1.  Under **Contract** click <svg aria-label="open list of options"
+1.  Under **Application** click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"
     viewBox="0 0 10 5" width="10"><title>open list of
     options</title><path d="M0 0l5 4.998L10 0z"></path></svg>.
 
-2.  Select `All Contracts` or a specific contract.
+2.  Select `All Applications` or a specific application.
     
-    The selected contracts or contract appears.
+    Servers from the selected applications or application appears.
 
 3.  Under **Environment** click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"
@@ -79,3 +82,12 @@ can choose to view a specific service or a specific environment.
 4.  Select `All Environments` or a specific environment.
     
     Servers from the selected environments or environment appears.
+
+## View all systems in a service
+{: #13237-view-all-systems-in-a-service } 
+
+You can view greater detail on Oracle servers.
+
+1.  In the header for the service, click **All Oracle Servers**.
+    
+    The Server page appears with Oracle as the selected service.

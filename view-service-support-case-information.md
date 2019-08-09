@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -22,17 +22,17 @@ lastupdated: "2019-06-19"
 {:download: .download} 
 {:external: target= .external} 
 
-# View service support ticket information
-{: #view-service-support-ticket-information } 
+# View service support case information
+{: #view-service-support-case-information } 
 
-Learn how to view service support ticket information.
+Learn how to view service support case  information.
 {: shortdesc} 
 
-You can view the information of any service support ticket. Ticket
+You can view the information of any service support case. Case
 information is separated onto four tabs by content.
 
   - **Details** tab - You can view the detailed information of a
-    specific service support ticket on the Details tab.
+    specific service support case on the Details tab.
   - **Implementation Plan** tab - The Implementation Plan tab shows
     information regarding how the change to your service will be applied
     to your systems.
@@ -40,7 +40,7 @@ information is separated onto four tabs by content.
     communications between you and IBM Services for Managed
     Applications.
   - **Watch List** tab - The Watch List tab shows all email addresses to
-    which notifications regarding the ticket are sent.
+    which notifications regarding the case are sent.
 
 Click a tab to show that content.
 
@@ -63,23 +63,25 @@ Click a tab to show that content.
     The Managed Solutions menu appears.
 
 5.  Click **Service Support**.
-
-6.  The Service Support choices appear under **Service Support** in the
-    navigation panel.Click the row of the ticket of interest.
     
-    The ticket page appears.
+    The Service Support choices appear under **Service Support** in the
+    navigation panel.
 
-7.  Click the tab for a type of ticket content.
+6.  Click the row of the case of interest.
     
-    The ticket information appears.
+    The case page appears.
+
+7.  Click the tab for a type of case content.
+    
+    The case information appears.
 
 ## Details tab
 {: #13248-details-tab } 
 
 You can view on the Details tab the key information that you added to
-the service support ticket when you created it. On this tab you can
+the service support case when you created it. On this tab you can
 [Change a tracking number or attachment on a service support
-ticket](/docs/managed-solutions?topic=managed-solutions-change-a-tracking-number-or-attachment-on-a-service-support-ticket "Change a tracking number or attachment on a service support ticket").
+case](/docs/managed-solutions?topic=managed-solutions-change-a-tracking-number-or-attachment-on-a-service-support-case "Change a tracking number or attachment on a service support case").
 For incidents, you can [Change the priority of an
 incident](/docs/managed-solutions?topic=managed-solutions-change-the-priority-of-an-incident "Change the priority of an incident").
 
@@ -100,7 +102,7 @@ requests.
 You can view on the Communication Log tab communications between you and
 your support team. On this tab you can [Add comments to a service
 support
-ticket](/docs/managed-solutions?topic=managed-solutions-add-comments-to-a-service-support-ticket "Add comments to a service support ticket").
+case](/docs/managed-solutions?topic=managed-solutions-add-comments-to-a-service-support-case "Add comments to a service support case").
 
 You cannot change the sort order of the communication log.
 {: note} 
@@ -109,9 +111,9 @@ You cannot change the sort order of the communication log.
 {: #13248-watch-list-tab } 
 
 You can view on the Watch List tab the list of email addresses to which
-notifications are sent when events occur on the service support ticket.
-On this tab you can [Change the watch list of a service support
-ticket](/docs/managed-solutions?topic=managed-solutions-change-the-watch-list-of-a-service-support-ticket "Change the watch list of a service support ticket").
+notifications are sent when events occur on the service support case. On
+this tab you can [Change the watch list of a service support
+case](/docs/managed-solutions?topic=managed-solutions-change-the-watch-list-of-a-service-support-case "Change the watch list of a service support case").
 You can also delete an email address from the watch list directly from
 the table on the Watch List tab.
 

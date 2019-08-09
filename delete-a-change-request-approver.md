@@ -22,13 +22,16 @@ lastupdated: "2019-08-09"
 {:download: .download} 
 {:external: target= .external} 
 
-# View your reports
-{: #view-your-reports } 
+# Delete a change request approver
+{: #delete-a-change-request-approver } 
 
-Learn how to view reports for your services.
+Learn how to delete a change request approver.
 {: shortdesc} 
 
-You can view all the reports that are available for your services.
+For organizations with more than one ServiceNow contracts, account
+administrators can control which users can approve change requests for
+each ServiceNow contract. If you are an administrator, you can delete a
+user from the list of change request approvers.
 
 1.  Open IBM Cloud Console.
 
@@ -48,15 +51,23 @@ You can view all the reports that are available for your services.
     
     The Managed Solutions menu appears.
 
-5.  Click **Insights**.
+5.  Click **Service Support**.
     
-    The Insights choices appear under **Insights** in the navigation
-    panel.
+    The Service Support choices appear under **Service Support** in the
+    navigation panel.
 
-6.  Click **Reports**.
+6.  Click **Change Request Approvers**.
     
-    The Reports page appears.
+    The list of change request approvers appears.
 
-7.  Hover over the report you want and click **Generate Report**.
+7.  On the user you want to delete, click delete, <svg
+    aria-label="delete" alt="delete" height="16" style="cursor:pointer;"
+    viewBox="0 0 12 16" width="12"><path d="M11 4v11c0 .6-.4 1-1
+    1H2c-.6 0-1-.4-1-1V4H0V3h12v1h-1zM2 4v11h8V4H2z"/><path d="M4
+    6h1v7H4zm3 0h1v7H7zM3 1V0h6v1z"/></svg>.
     
-    The generated report appears.
+    The Delete Change Request Approver dialog appears.
+
+8.  Click **Delete**.
+    
+    The user is removed from the list of change request approvers.

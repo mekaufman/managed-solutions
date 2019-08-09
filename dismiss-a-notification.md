@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -22,17 +22,16 @@ lastupdated: "2019-06-19"
 {:download: .download} 
 {:external: target= .external} 
 
-# Add comments to a service support ticket
-{: #add-comments-to-a-service-support-ticket } 
+# Dismiss a notification
+{: #dismiss-a-notification } 
 
-Learn how to add comments to a service support ticket.
+Learn how to dismiss a notification.
 {: shortdesc} 
 
-You can add comments to a service support ticket. The team assigned the
-ticket reviews and responds to comments. All comments are shown on the
-Communication Log tab of the ticket.
-
-To add a comment to a service support ticket:
+Notifications are brief communications from IBM Services for Managed
+Applications to you, such as announcing a service window or a change in
+service. A notification appears at the top of every the page until you
+acknowledge it.
 
 1.  Open IBM Cloud Console.
 
@@ -51,20 +50,8 @@ To add a comment to a service support ticket:
 4.  Select **Managed Solutions**.
     
     The Managed Solutions menu appears.
-
-5.  Click **Service Support**.
-
-6.  The Service Support choices appear under **Service Support** in the
-    navigation panel.Click the row of the ticket of interest.
     
-    The ticket page appears.
+    If any notifications are available for you, they appear at the top
+    of the page.
 
-7.  Click **Communication Log**.
-    
-    The Communication Log tab appears.
-
-8.  Type your **Comments**.
-
-9.  Click **Add**.
-    
-    Your comment is added to the communication log.
+5.  Click **I Acknowledge** to dismiss the notification.

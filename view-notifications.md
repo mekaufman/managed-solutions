@@ -22,13 +22,16 @@ lastupdated: "2019-08-09"
 {:download: .download} 
 {:external: target= .external} 
 
-# View your reports
-{: #view-your-reports } 
+# View notifications
+{: #view-notifications } 
 
-Learn how to view reports for your services.
+Learn hot to view all notifications.
 {: shortdesc} 
 
-You can view all the reports that are available for your services.
+Notifications are brief communications from IBM Services for Managed
+Applications to you, such as announcing a service window or a change in
+service. A notification appears at the top of every the page until you
+acknowledge it. You can view a list of all notifications from any page.
 
 1.  Open IBM Cloud Console.
 
@@ -48,15 +51,10 @@ You can view all the reports that are available for your services.
     
     The Managed Solutions menu appears.
 
-5.  Click **Insights**.
+5.  Click on any option on the menu to open that page.
     
-    The Insights choices appear under **Insights** in the navigation
-    panel.
+    The selected page appears with a link to View Notifications.
 
-6.  Click **Reports**.
+6.  Click **View Notifications**.
     
-    The Reports page appears.
-
-7.  Hover over the report you want and click **Generate Report**.
-    
-    The generated report appears.
+    The View Notifications page appears.

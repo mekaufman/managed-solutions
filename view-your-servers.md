@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -61,12 +61,15 @@ Click a tab to show that content.
     
     The Servers page appears.
 
-6.  Click the tab for server content.
+6.  Click a tab, **Summary** or **Server Inventory**, to view that
+    server content.
     
     The server information appears.
     
-    You can also get to the Servers page when you [View SAP
-    systems](/docs/managed-solutions?topic=managed-solutions-view-sap-systems "View SAP systems").
+    You can also retrieve the Servers page when you [View
+    SAP systems](/docs/managed-solutions?topic=managed-solutions-view-sap-systems "View SAP systems") or when you
+    [View Oracle
+    systems](/docs/managed-solutions?topic=managed-solutions-view-oracle-systems "View Oracle systems").
     {: note} 
 
 ## Select your service and systems
@@ -75,14 +78,14 @@ Click a tab to show that content.
 You can choose whether to view all your services or you can choose to
 view a specific service.
 
-1.  Under **Service** click <svg aria-label="open list of options"
+1.  Under **Contract** click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"
     viewBox="0 0 10 5" width="10"><title>open list of
     options</title><path d="M0 0l5 4.998L10 0z"></path></svg>.
 
-2.  Select `All Services` or a specific application.
+2.  Select `All Contracts` or a specific contract.
     
-    The selected services or service appears.
+    The selected contracts or contract appears.
 
 3.  Under **Systems** click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"

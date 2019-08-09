@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -33,6 +33,12 @@ Go to the application programming interface specifications.
 [SAP API
 documentation](https://sap-api-customer.bluemix.net/sap/v1/docs/){: external}
 
+[Oracle API
+documentation](https://api.managed-solutions.cloud.ibm.com/oracle/v1/docs){: external}
+
+[Metrics API
+documentation](https://api.managed-solutions.cloud.ibm.com/metrics/v1/docs){: external}
+
 [Health API
 documentation](https://api.managed-solutions.cloud.ibm.com/health/v1/docs){: external}
 
@@ -44,6 +50,3 @@ documentation](https://api.managed-solutions.cloud.ibm.com/acct-mgmt/v1/docs){: 
 
 [Application Registry API
 documentation](https://api.managed-solutions.cloud.ibm.com/app-registry/v1/docs){: external}
-
-[Metrics API
-documentation](https://api.managed-solutions.cloud.ibm.com/metrics/v1/docs){: external}

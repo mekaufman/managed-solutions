@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -59,29 +59,34 @@ some tiles, click the title of the tile to go to that service. Other
 services shown on the dashboard are links to information regarding that
 service.
 
-## Services tile
-{: #13240-services-tile } 
+## Managed SAP tile
+{: #13240-managed-sap-tile } 
 
-The Services tile shows a list of your services and an icon of the
-status. The tile title and each count is a link.
+The Managed SAP tile shows the count of landscapes, the count of
+systems. the count of servers, and a table of counts of systems by
+environment type. The tile title and each count is a link.
 
-  - Click **Services** and link to [View your services
-    dashboard](/docs/managed-solutions?topic=managed-solutions-view-your-services-dashboard "View your services dashboard").
-  - Click any of your services and link to [View your services
-    dashboard](/docs/managed-solutions?topic=managed-solutions-view-your-services-dashboard "View your services dashboard").
+  - Click **Managed SAP** and link to [View your
+    applications](/docs/managed-solutions?topic=managed-solutions-view-your-applications "View your applications").
+  - Click the count of landscapes and link to [View your
+    applications](/docs/managed-solutions?topic=managed-solutions-view-your-applications "View your applications").
+  - Click the count of systems and link to [View SAP
+    systems](/docs/managed-solutions?topic=managed-solutions-view-sap-systems "View SAP systems").
+  - Click the count of servers and link to [View your
+    servers](/docs/managed-solutions?topic=managed-solutions-view-your-servers "View your servers") filtered to
+    show only Managed SAP servers.
 
-## Recent Tickets tile
-{: #13240-recent-tickets-tile } 
+## Recent Cases tile
+{: #13240-recent-cases-tile } 
 
-The Recent Tickets tile shows a list of tickets created or modified in
-the last seven days.
+The Recent Cases tile shows a list of cases created or modified in the
+last seven days.
 
-  - Click **Recent Tickets** and link to [View your service support
-    service
-    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule").
-  - Click a ticket identifier and link to [View service support ticket
-    information](/docs/managed-solutions?topic=managed-solutions-view-service-support-ticket-information "View service support ticket information")
-    for that ticket.
+  - Click **Recent Cases** and link to [View your service support
+    cases](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-cases "View your service support cases").
+  - Click a case identifier and link to [View service support case
+    information](/docs/managed-solutions?topic=managed-solutions-view-service-support-case-information "View service support case information")
+    for that case.
 
 ## Scheduled Change Requests tile
 {: #13240-scheduled-change-requests-tile } 
@@ -104,39 +109,38 @@ scheduled the nearest in time.
     service support service
     schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule")
     filtered to show that date.
-  - Click a change request ticket identifier and link to [View service
-    support ticket
-    information](/docs/managed-solutions?topic=managed-solutions-view-service-support-ticket-information "View service support ticket information")
-    for that ticket.
+  - Click a change request case identifier and link to [View service
+    support case
+    information](/docs/managed-solutions?topic=managed-solutions-view-service-support-case-information "View service support case information")
+    for that case.
   - Click **Create Change Request** and link to [Create a service
     support
-    ticket](/docs/managed-solutions?topic=managed-solutions-create-a-service-support-ticket "Create a service support ticket")
-    with a `Change Request` type of ticket.
+    case](/docs/managed-solutions?topic=managed-solutions-create-a-service-support-case "Create a service support case")
+    with a `Change Request` type of case.
 
-## Active Tickets tile
-{: #13240-active-tickets-tile } 
+## Active Cases tile
+{: #13240-active-cases-tile } 
 
-The Active Tickets tile shows counts of active tickets of each ticket
-type in the last seven days and a graph of the number of active tickets
-of each ticket type per day.
+The Active Cases tile shows counts of active cases of each case type in
+the last seven days and a graph of the number of active cases of each
+case type per day.
 
-  - Click **Active Tickets** and link to [View your service support
-    service
-    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule").
-  - Click **Change** requests to [View your service support service
-    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule")
+  - Click **Active Cases** and link to [View your service support
+    cases](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-cases "View your service support cases").
+  - Click **Change** requests to [View your service support
+    cases](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-cases "View your service support cases")
     with the Change tab selected.
-  - Click **Service** requests to [View your service support service
-    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule")
+  - Click **Service** requests to [View your service support
+    cases](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-cases "View your service support cases")
     with the Service tab selected.
-  - Click **Incident** requests to [View your service support service
-    schedule](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-service-schedule "View your service support service schedule")
+  - Click **Incident** requests to [View your service support
+    cases](/docs/managed-solutions?topic=managed-solutions-view-your-service-support-cases "View your service support cases")
     with the Incident tab selected.
   - Hover your cursor over a line on the graph to view the count of
-    active tickets of that type on that day.
+    active cases of that type on that day.
 
-## Alerts tile
-{: #13240-alerts-tile } 
+## Active Alerts tile
+{: #13240-active-alerts-tile } 
 
 The Alerts tile shows counts of active alerts by severity.
 

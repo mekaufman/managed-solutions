@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -110,14 +110,14 @@ access to all account management services in the account by selecting
 **All account management services** with the `Administrator` role
 assigned.
 
-## Why am I unable to create tickets?
-{: #13810-why-am-i-unable-to-create-tickets } 
+## Why am I unable to create cases?
+{: #13810-why-am-i-unable-to-create-cases } 
 
 An administrator did not give you permission to see the information. The
 most likely cause is that the **Assign platform access roles** you were
 given was only `Viewer`. An administrator must follow the instructions
 in [Access to
-resources](https://dev.console.test.cloud.ibm.com/docs/iam?topic=iam-iammanidaccser#resourceaccess){: external}
+resources](/docs/iam?topic=iam-iammanidaccser#access_to_resources)
 to give you the proper permission. If **Assign platform access roles**
 is the cause, under **Assign platform access roles** select `Operator`,
 `Editor`, or `Administrator`.

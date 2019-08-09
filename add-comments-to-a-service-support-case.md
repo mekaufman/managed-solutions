@@ -22,13 +22,17 @@ lastupdated: "2019-08-09"
 {:download: .download} 
 {:external: target= .external} 
 
-# View your reports
-{: #view-your-reports } 
+# Add comments to a service support case
+{: #add-comments-to-a-service-support-case } 
 
-Learn how to view reports for your services.
+Learn how to add comments to a service support case.
 {: shortdesc} 
 
-You can view all the reports that are available for your services.
+You can add comments to a service support case. The team assigned the
+case reviews and responds to comments. All comments are shown on the
+Communication Log tab of the case.
+
+To add a comment to a service support case:
 
 1.  Open IBM Cloud Console.
 
@@ -48,15 +52,21 @@ You can view all the reports that are available for your services.
     
     The Managed Solutions menu appears.
 
-5.  Click **Insights**.
+5.  Click **Service Support**.
     
-    The Insights choices appear under **Insights** in the navigation
-    panel.
+    The Service Support choices appear under **Service Support** in the
+    navigation panel.
 
-6.  Click **Reports**.
+6.  Click the row of the case of interest.
     
-    The Reports page appears.
+    The case page appears.
 
-7.  Hover over the report you want and click **Generate Report**.
+7.  Click **Communication Log**.
     
-    The generated report appears.
+    The Communication Log tab appears.
+
+8.  Type your **Comments**.
+
+9.  Click **Add**.
+    
+    Your comment is added to the communication log.

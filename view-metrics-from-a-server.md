@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -52,7 +52,8 @@ You can view detailed metric data in a graph for servers.
     
     The Servers page appears.
 
-6.  Click the tab for server content.
+6.  Click a tab, **Summary** or **Server Inventory**, to view that
+    server content.
     
     The server information appears.
 

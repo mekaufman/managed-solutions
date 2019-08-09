@@ -22,15 +22,16 @@ lastupdated: "2019-08-09"
 {:download: .download} 
 {:external: target= .external} 
 
-# Change the priority of an incident
-{: #change-the-priority-of-an-incident } 
+# Edit a change request approver
+{: #edit-a-change-request-approver } 
 
-Learn how to change the priority of an incident service support case.
+Learn how to edit a change request approver.
 {: shortdesc} 
 
-You can change the priority of an incident service support case.
-
-Navigate to the Details tab of an incident service support case.
+For organizations with more than one ServiceNow contracts, account
+administrators can control which users can approve change requests for
+each ServiceNow contract. If you are an administrator, you can edit the
+contracts for which a user can approve change requests.
 
 1.  Open IBM Cloud Console.
 
@@ -55,31 +56,24 @@ Navigate to the Details tab of an incident service support case.
     The Service Support choices appear under **Service Support** in the
     navigation panel.
 
-6.  Click the row of the case of interest.
+6.  Click **Change Request Approvers**.
     
-    The case page appears.
+    The list of change request approvers appears.
 
-7.  Click **Details**.
-    
-    The Details tab appears with service support case detailed
-    information.
-
-8.  Click <svg aria-label="pencil" alt="pencil" height="16"
-    id="Layer_1" style="enable-background:new 0 0 16 16;" version="1.1"
-    viewBox="0 0 16 16" width="16" x="0px" y="0px"><style
-    type="text/css"> .st0 {fill: #8C9BA5;} </style><g><path
-    d="M2.2,10.9l8-8l2.9,2.9l-8,8L2.2,10.9z
+7.  On the user you want to edit, click edit, <svg aria-label="pencil"
+    alt="pencil" height="16" id="Layer_1" style="enable-background:new
+    0 0 16 16;" version="1.1" viewBox="0 0 16 16" width="16" x="0px"
+    y="0px"><style type="text/css"> .st0 {fill: #8C9BA5;}
+    </style><g><path d="M2.2,10.9l8-8l2.9,2.9l-8,8L2.2,10.9z
     M11.6,1.5L13.1,0L16,2.9l-1.5,1.5L11.6,1.5z M0,16l2.7-1.1l-1.6-1.6
-    L0,16z"/></g></svg> next to **Priority**.
+    L0,16z"/></g></svg>.
     
-    The **Priority** list appears.
+    The Edit Approver dialog appears.
 
-9.  Select a priority.
+8.  Select one or more contracts on the table or select **Contract** to
+    select all the contracts.
 
-10. Click **Save**.
+9.  Click **Apply**.
     
-    Click <svg aria-label="remove" alt="remove"
-    style="fill: #e0182d;" fill-rule="evenodd" height="16" viewBox="0 0
-    16 16" width="16"><path d="M6.32 5L10 8.68 8.68 10 5 6.32 1.32 10
-    0 8.68 3.68 5 0 1.32 1.32 0 5 3.68 8.68 0 10 1.32 6.32
-    5z"/></svg> to cancel your change.
+    The changes to the user appear on the list of change request
+    approvers.

@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -58,9 +58,9 @@ which you can enter your access code.
 {: #13231-proceed-to-the-managed-solutions-welcom } 
 
 Because Managed Applications Portal is hosted in IBM Cloud, you must
-open the [IBM Cloud Console](https://cloud.ibm.com/){: external} login page in your
-browser. How you proceed to the Managed Solutions welcome page depends
-on whether you have an IBM Cloud
+open the [IBM Cloud Console](https://cloud.ibm.com/login){: external} login page in
+your browser. How you proceed to the Managed Solutions welcome page
+depends on whether you have an IBM Cloud
 account.
 
 ### I have IBM Services for Managed Applications but no IBM Cloud account
@@ -77,7 +77,7 @@ topic.
     with `IBMid` using an email address that you want to own the account
     for all your users.
 2.  Ask your Delivery Project Executive for an access code.
-3.  Log in to [IBM Cloud Console](https://cloud.ibm.com/){: external} with that
+3.  Log in to [IBM Cloud Console](https://cloud.ibm.com/login){: external} with that
     email address.
 4.  Continue with *_Enable access to IBM Services for Managed
     Applications_* later in this topic.
@@ -89,7 +89,7 @@ topic.
 {: #13231-and-i-have-ibm-services-for-managed-app } 
 
 1.  Ask your Delivery Project Executive for an access code.
-2.  Log in to [IBM Cloud Console](https://cloud.ibm.com/){: external}.
+2.  Log in to [IBM Cloud Console](https://cloud.ibm.com/login){: external}.
 3.  Continue with *_Enable access to IBM Services for Managed
     Applications_* later in this topic.
 
@@ -98,7 +98,7 @@ topic.
 
 1.  Contact sales and purchase IBM Services for Managed Applications.
 2.  Ask your Delivery Project Executive for an access code.
-3.  Log in to [IBM Cloud Console](https://cloud.ibm.com/){: external}.
+3.  Log in to [IBM Cloud Console](https://cloud.ibm.com/login){: external}.
 4.  Continue with *_Enable access to IBM Services for Managed
     Applications_* later in this topic.
 

@@ -22,13 +22,16 @@ lastupdated: "2019-08-09"
 {:download: .download} 
 {:external: target= .external} 
 
-# View your applications
-{: #view-your-applications } 
+# Add a change request approver
+{: #add-a-change-request-approver } 
 
-Learn how to view your applications.
+Learn how to add a change request approver.
 {: shortdesc} 
 
-You can view the current state of services for your applications.
+For organizations with more than one ServiceNow contracts, account
+administrators can control which users can approve change requests for
+each ServiceNow contract. If you are an administrator, you can add a
+user to approve change requests for one or more contracts.
 
 1.  Open IBM Cloud Console.
 
@@ -48,32 +51,30 @@ You can view the current state of services for your applications.
     
     The Managed Solutions menu appears.
 
-5.  Click **Applications**.
+5.  Click **Service Support**.
     
-    The Applications page appears.
+    The Service Support choices appear under **Service Support** in the
+    navigation panel.
 
-## Select your service
-{: #13233-select-your-service } 
+6.  Click **Change Request Approvers**.
+    
+    The list of change request approvers appears.
 
-You can choose whether to view all your services or you can choose to
-view a specific service.
+7.  Click **Add Approver**.
+    
+    The Add Approvers dialog appears.
 
-1.  Under **Contract** click <svg aria-label="open list of options"
+8.  Under **Approver** click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"
     viewBox="0 0 10 5" width="10"><title>open list of
     options</title><path d="M0 0l5 4.998L10 0z"></path></svg>.
 
-2.  Select `All Contracts` or a specific contract.
+9.  Select a user to add as an approver.
+
+10. Select one or more contracts on the table or select **Contract** to
+    select all the contracts.
+
+11. Click **Apply**.
     
-    The selected contracts or contract appears.
-
-## View all systems in a service
-{: #13233-view-all-systems-in-a-service } 
-
-You can select a specific service to view greater detail. In the header
-for the service.
-
-  - Click **All SAP Systems** to [View SAP
-    systems](/docs/managed-solutions?topic=managed-solutions-view-sap-systems "View SAP systems").
-  - Click **All Oracle Systems** to [View Oracle
-    systems](/docs/managed-solutions?topic=managed-solutions-view-oracle-systems "View Oracle systems").
+    The user is added to the list of change request approvers for the
+    selected contracts.

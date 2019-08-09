@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -57,9 +57,9 @@ service schedule for a day, a week, or a month.
 ## View a scheduled service
 {: #13262-view-a-scheduled-service } 
 
-You can click on any ticket in the service support schedule to [View
-service support ticket
-information](/docs/managed-solutions?topic=managed-solutions-view-service-support-ticket-information "View service support ticket information").
+You can click on any case in the service support schedule to [View
+service support case
+information](/docs/managed-solutions?topic=managed-solutions-view-service-support-case-information "View service support case information").
 
 ## Select your service and location
 {: #13262-select-your-service-and-location } 
@@ -67,16 +67,16 @@ information](/docs/managed-solutions?topic=managed-solutions-view-service-suppor
 You can choose whether to view all your services and locations or you
 can choose to view a specific service or a specific location.
 
-1.  Under **Service** click <svg aria-label="open list of options"
+1.  Under **Contract** click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"
     viewBox="0 0 10 5" width="10"><title>open list of
     options</title><path d="M0 0l5 4.998L10 0z"></path></svg>.
 
-2.  Select `All Services` or a specific application.
+2.  Select `All Contracts` or a specific contract.
     
-    The selected services or service appears.
+    The selected contracts or contract appears.
 
-3.  Under **Location** click <svg aria-label="open list of options"
+3.  Under **Location**, click <svg aria-label="open list of options"
     alt="open list of options" fill-rule="evenodd" height="5" role="img"
     viewBox="0 0 10 5" width="10"><title>open list of
     options</title><path d="M0 0l5 4.998L10 0z"></path></svg>.

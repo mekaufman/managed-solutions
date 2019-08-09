@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -34,9 +34,9 @@ and authorization. Because IBM Services for Managed Applications is
 hosted by IBM Cloud, security services are provided by IBM Cloud.
 
   - For an overview of IBM Cloud application security, visit [Security
-    and Identity](https://test.cloud.ibm.com/apidocs?category=security){: external},
+    and Identity](https://cloud.ibm.com/apidocs?category=security){: external},
     especially [Authorization and
-    Authentication](https://test.cloud.ibm.com/apidocs/app-id/auth){: external}.
+    Authentication](https://cloud.ibm.com/apidocs/app-id/auth){: external}.
   - To begin using IBM Cloud application security, visit [IBM Cloud App
     ID](/docs/services/appid/index.html#gettingstarted),
     especially [Key

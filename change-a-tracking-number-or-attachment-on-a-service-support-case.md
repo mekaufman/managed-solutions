@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -22,16 +22,16 @@ lastupdated: "2019-06-19"
 {:download: .download} 
 {:external: target= .external} 
 
-# Change a tracking number or attachment on a service support ticket
+# Change a tracking number or attachment on a service support case
 {: #change-a-tracking-number-or-attachment-on-a-s } 
 
-Learn how to change a tracking number or attachment on a service support ticket.
+Learn how to change a tracking number or attachment on a service support case.
 {: shortdesc} 
 
-You can change the tracking number of a service support ticket and add
-or remove attachments on a service support ticket.
+You can change the tracking number of a service support case and add or
+remove attachments on a service support case.
 
-Navigate to the Details tab of a service support ticket.
+Navigate to the Details tab of a service support case.
 
 1.  Open IBM Cloud Console.
 
@@ -52,22 +52,24 @@ Navigate to the Details tab of a service support ticket.
     The Managed Solutions menu appears.
 
 5.  Click **Service Support**.
-
-6.  The Service Support choices appear under **Service Support** in the
-    navigation panel.Click the row of the ticket of interest.
     
-    The ticket page appears.
+    The Service Support choices appear under **Service Support** in the
+    navigation panel.
+
+6.  Click the row of the case of interest.
+    
+    The case page appears.
 
 7.  Click **Details**.
     
-    The Details tab appears with service support ticket detailed
+    The Details tab appears with service support case detailed
     information.
 
 ## Change the tracking number
 {: #13251-change-the-tracking-number } 
 
 The tracking number is a text field in which you can type any value that
-helps you associate this service support ticket to any other object
+helps you associate this service support case to any other object
 meaningful to you. You can change the **Tracking Number**.
 
 1.  Click <svg aria-label="pencil" alt="pencil" height="16"
@@ -88,9 +90,10 @@ meaningful to you. You can change the **Tracking Number**.
 {: #13251-change-attachments } 
 
 You can add, download, or remove attachments to the service support
-ticket.
+case.
 
-The maximum size of any single attachment is 20 MB.
+You can attach binary files. The maximum size of any single
+attachment is 20 MB.
 {: note} 
 
 You can add an attachment.

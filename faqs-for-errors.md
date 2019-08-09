@@ -3,7 +3,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-06-19"
+lastupdated: "2019-08-09"
 
 
 ---
@@ -35,7 +35,7 @@ A collection of frequently asked questions regarding errors.
 
 If you do not see all of your servers in the Affected Items list,
 [Create a service support
-ticket](/docs/managed-solutions?topic=managed-solutions-create-a-service-support-ticket "Create a service support ticket")
+case](/docs/managed-solutions?topic=managed-solutions-create-a-service-support-case "Create a service support case")
 in Managed Applications Portal and support will correct the list.
 
 ## Why do I see the error: No Access?
@@ -44,7 +44,7 @@ in Managed Applications Portal and support will correct the list.
 An administrator did not give you permission to see the information. The
 most likely cause is that the **Services** you were given was `No
 Access`. An administrator must follow the instructions in [Access to
-resources](https://dev.console.test.cloud.ibm.com/docs/iam?topic=iam-iammanidaccser#resourceaccess){: external}
+resources](/docs/iam?topic=iam-iammanidaccser#access_to_resources)
 to give you the proper permission. If **Services** is the cause, under
 **Services**, select `Managed Solutions` or `All Identity and Access
 enabled services`.
